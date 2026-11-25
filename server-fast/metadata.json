@@ -1,0 +1,6 @@
+{
+  "name": "Server Fast",
+  "description": "Motor de Arquitectura de Servidores de Minecraft que traduce ideas en lenguaje natural a configuraciones técnicas compatibles con mods, cálculo de RAM y scripts KubeJS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
